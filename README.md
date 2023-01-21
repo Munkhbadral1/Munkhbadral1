@@ -22,6 +22,5 @@ Here are some ideas to get you started:
 
 <br></br>
 
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> Achievement</h2>
 
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
