@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 <br></br>
 
-(https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
+<!-- ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif) -->
